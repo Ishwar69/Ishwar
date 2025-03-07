@@ -1,3 +1,2 @@
 This is a demonstration of Git and GitHub integration from jupyter.
 This is new data.
-Testing new data
